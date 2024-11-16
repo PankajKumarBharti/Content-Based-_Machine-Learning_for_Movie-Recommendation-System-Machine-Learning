@@ -1,1 +1,2 @@
-# Content-Based-_Machine-Learning_for_Movie-Recommendation-System-Machine-Learning
+## Content-Based-_Machine-Learning_for_Movie-Recommendation-System-Machine-Learning
+This project is a Content-Based Recommendation System designed to suggest movies to users based on their preferences. By leveraging machine learning techniques, the system analyzes the attributes of movies (such as genres, cast, crew, keywords, etc.) and matches them with the user's past preferences to recommend movies they are likely to enjoy.
